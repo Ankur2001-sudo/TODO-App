@@ -1,0 +1,43 @@
+body{
+    background-color: violet;
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 33%;
+    margin-top: 50px;
+}
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid black;
+    outline: none;
+    font-size: 19px;
+}
+button{
+    width: 60px;
+    height: 41px;
+    background: #000;
+    color: aliceblue;
+    border-radius: 2px;
+    font-size: 19px;
+    border-radius: none;
+    outline: none;
+    cursor: pointer;
+
+}
+.text ul{
+    position: relative;
+    background-color: violet;
+    color: aliceblue;
+    font-size: 19px;
+    text-align: left;
+    padding: 7px;
+}
+.tex ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
